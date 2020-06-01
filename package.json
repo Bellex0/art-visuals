@@ -1,0 +1,15 @@
+{
+  "name": "art-visuals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mojs/core": "^0.288.2"
+  }
+}
